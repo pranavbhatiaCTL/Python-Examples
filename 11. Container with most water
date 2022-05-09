@@ -1,0 +1,4 @@
+Problem statement: https://leetcode.com/problems/container-with-most-water/
+
+Solution: 2 pointers left and right. Find area and move the pointer in left if right > left or vice-versa. 
+
